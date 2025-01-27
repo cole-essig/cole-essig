@@ -1,25 +1,37 @@
 <h1 align="center">Hi 👋, I'm Cole Essig</h1>
-<h3 align="center">A passionate full stack developer who's leveraging his time to home skills and new tools to my repertoire</h3>
+<h3 align="center">A passionate full-stack developer excited to expand my toolset into the digital world.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cole-essig" alt="cole-essig" /></a> </p>
+## 🌱 Current Focus
+- Learning **JavaScript** in-depth
+- Improving my **React** skills and tools
+- Exploring **GDScript** and **Godot** game development
 
-- 🔭 I’m currently working on [se_news_search](https://github.com/cole-essig/se_news_search) building the backend to match the completed front
+## 🔭 Current Work
+- [**se_news_search**](https://github.com/cole-essig/se_news_search): *Building the backend for a news search app.*
 
-- 🌱 I’m currently learning **In depth JS, deeper understanging React and its tools, GDScript and godot.**
+## 👯 Collaboration Opportunities
+- [**Suzu**](https://github.com/gardgeoff/suzu): *Collaborating on a family calendar app to improve scheduling.*
 
-- 👯 I’m looking to collaborate on [suzu](https://github.com/gardgeoff/suzu) a personalized calender for families to better sync schedules.
+## 📬 Get in Touch
+- Email: **cole2essig3@gmail.com**
+- Fun Fact: *I’ve worked in construction for 15 years and am now transitioning to software development.*
 
-- 📫 How to reach me **cole2essig3@gmail.com**
+## 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/cole-essig)
 
-- ⚡ Fun fact **I've worked in construction for almost 15 years as a craftsman. Looking to expand my toolset to the digital world.**
+## 💻 Languages & Tools
+- **Languages**: HTML, CSS, JavaScript, **GDScript**
+- **Backend**: Node.js, **Express.js**, **Mongoose**
+- **Frontend**: React, **Godot**
+- **Tools**: Git, Docker, npm
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cole essig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cole essig" height="30" width="40" /></a>
+## ✨ Quote
+> *"Do not go gentle into that good night. Rage, rage against the dying of the light."*  
+— Dylan Thomas 
+
+<p align="center">
+  <a href="https://github.com/cole-essig">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cole-essig&show_icons=true&locale=en" alt="cole-essig" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cole-essig&show_icons=true&locale=en" alt="cole-essig" /></p>
 
