@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cole Essig</h1>
-<h3 align="center">A passionate full stack developer in training</h3>
+<h3 align="center">A passionate full stack developer who's leveraging his time to home skills and new tools to my repertoire</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cole-essig" alt="cole-essig" /></a> </p>
 
-- 🔭 I’m currently working on [se_project_aroundtheus](https://github.com/cole-essig/se_project_aroundtheus)
+- 🔭 I’m currently working on [se_news_search](https://github.com/cole-essig/se_news_search) building the backend to match the completed front
 
-- 🌱 I’m currently learning **In depth JS, manipulating the DOM and creating functional reactive websites.**
+- 🌱 I’m currently learning **In depth JS, deeper understanging React and its tools, GDScript and godot.**
 
-- 👯 I’m looking to collaborate on [suzu](https://github.com/gardgeoff/suzu)
+- 👯 I’m looking to collaborate on [suzu](https://github.com/gardgeoff/suzu) a personalized calender for families to better sync schedules.
 
 - 📫 How to reach me **cole2essig3@gmail.com**
 
