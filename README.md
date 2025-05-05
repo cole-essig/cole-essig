@@ -13,7 +13,7 @@
 - [**Suzu**](https://github.com/gardgeoff/suzu): *Collaborating on a family calendar app to improve scheduling.*
 
 ## 📬 Get in Touch
-- Email: **cole2essig3@gmail.com**
+- Email: **colepessig@gmail.com**
 - Fun Fact: *I’ve worked in construction for 15 years and am now transitioning to software development.*
 
 ## 🌐 Connect with Me
