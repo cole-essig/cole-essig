@@ -8,9 +8,12 @@
 
 ## 🔭 Current Work
 - [**se_news_search**](https://github.com/cole-essig/se_news_search): *Building the backend for a news search app.*
+- [**BookWyrm**](https://github.com/cole-essig/Bookwyrm): *Working on intial project and setup*
+- [**Portfolio**](https://github.com/cole-essig/portfolio): *Building my professional landing page and ready to impress*
 
 ## 👯 Collaboration Opportunities
 - [**Suzu**](https://github.com/gardgeoff/suzu): *Collaborating on a family calendar app to improve scheduling.*
+- [**BookWyrm**](https://github.com/cole-essig/Bookwyrm): *Working on intial project and setup, an App to assist reading in schools*
 
 ## 📬 Get in Touch
 - Email: **colepessig@gmail.com**
@@ -20,10 +23,10 @@
 [LinkedIn](https://linkedin.com/in/cole-essig)
 
 ## 💻 Languages & Tools
-- **Languages**: HTML, CSS, JavaScript, **GDScript**
-- **Backend**: Node.js, **Express.js**, **Mongoose**
+- **Languages**: HTML, CSS, JavaScript, **GDScript**, Typescript, Python, Java
+- **Backend**: Node.js, **Express.js**, **Mongoose**, Spring Boot
 - **Frontend**: React, **Godot**
-- **Tools**: Git, Docker, npm
+- **Tools**: Git, Docker, npm, GSAP, ShadeCN
 
 ## ✨ Quote
 > *"Do not go gentle into that good night. Rage, rage against the dying of the light."*  
