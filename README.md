@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full-stack developer excited to expand my toolset into the digital world.</h3>
 
 ## 🌱 Current Focus
-- Learning **JavaScript** in-depth
-- Improving my **React** skills and tools
+- Learning **Laravel** in-depth
+- Improving my **React and Typescript** skills and tools
 - Exploring **GDScript** and **Godot** game development
 
 ## 🔭 Current Work
